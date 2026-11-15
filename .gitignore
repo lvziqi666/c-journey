@@ -1,0 +1,25 @@
+# 编译产物
+*.exe
+*.obj
+*.o
+*.ilk
+*.pdb
+*.idb
+*.exp
+
+# 小熊猫 / Dev-C++ 项目文件
+*.dev
+*.layout
+*.win
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+*.user
+*.suo
+
+# 系统文件
+Thumbs.db
+desktop.ini
